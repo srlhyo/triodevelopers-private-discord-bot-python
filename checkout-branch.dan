@@ -1,0 +1,50 @@
+Script started on 2022-05-29 23:49:02+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="108" LINES="21"]
+[1m[7m%[27m[1m[0m                                                                                                            ]2;lhyo@lhyo-mj:~/Documents/personal-development-programming/triodevelopers-private-discord-bot-python]1;..rd-bot-python[0m[27m[24m[J[01;32m➜  [36mtriodevelopers-private-discord-bot-python[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mg[39m[32mg[39m[90mit checkout[39m[11D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39m[4mc[24m[4mc[39m[4mh[24m[4mh[39m[4me[24m[4me[39m[4mc[24m[4mc[39m[4mk[24m[4mk[39m[4mo[24m[4mo[39m[4mu[24m[4mu[39m[4mt[24m[8D[24mc[24mh[24me[24mc[24mk[24mo[24mu[24mt [90mexpanded-help-menu[39m[18D[39me[39mx[39ma[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D [90mpanded-help-menu[39m[16D[39mp[39ma[39mn[39md[39me[39md[39m-[39mh[39me[39ml[39mp[39m-[39mm[39me[39mn[39mu[?1l>[?2004l
+]2;git checkout expanded-help-menu]1;giterror: pathspec 'expanded-help-menu' did not match any file(s) known to git
+[1m[7m%[27m[1m[0m                                                                                                            ]2;lhyo@lhyo-mj:~/Documents/personal-development-programming/triodevelopers-private-discord-bot-python]1;..rd-bot-python[0m[27m[24m[J[01;31m➜  [36mtriodevelopers-private-discord-bot-python[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mg[39m[32mg[39m[90mit checkout expanded-help-menu[39m[30D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39mp[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [26D[90mush[39m [39m [39m [39m [90mcheckout expanded-help-menu[39m[27D[39m[4mb[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [26D[90mranch -M main[39m[13D[24mb[39mr[39mn[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11Dach    [90manch -M main[39m[12D[39ma[39mn[39mc[39mh[39m [39m-[39ma[39m [39m [39m [39m [39m [?1l>[?2004l
+]2;git branch -a]1;git[?1049h[22;0;0t[?1h=* [32mmain[m[m
+  [31mremotes/origin/HEAD[m -> origin/main[m
+  [31mremotes/origin/development[m[m
+  [31mremotes/origin/main[m[m
+[7m(END)[27m[K[H[2J[H[H[2J[H* [32mmain[m[m
+  [31mremotes/origin/HEAD[m -> origin/main[m
+  [31mremotes/origin/development[m[m
+  [31mremotes/origin/main[m[m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [K::[Kqq[K[?1l>[?1049l[23;0;0t
+[1m[7m%[27m[1m[0m                                                                                                            ]2;lhyo@lhyo-mj:~/Documents/personal-development-programming/triodevelopers-private-discord-bot-python]1;..rd-bot-python
+[0m[27m[24m[J[01;31m➜  [36mtriodevelopers-private-discord-bot-python[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                                                                            ]2;lhyo@lhyo-mj:~/Documents/personal-development-programming/triodevelopers-private-discord-bot-python]1;..rd-bot-python[0m[27m[24m[J[01;31m➜  [36mtriodevelopers-private-discord-bot-python[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mg[39m[32mg[39m[90mit branch -a[39m[12D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39m[4mb[24m[24mb[39mt[39m [39m [39m [39m [39m [39m [39m [4mb[24m [90mranch -a[39m[8D[24mb[39mr[39ma[39mn[39mc[39mh[39m [39m [39m [?1l>[?2004l
+]2;git branch]1;git[?1049h[22;0;0t[?1h=* [32mmain[m[m
+[7m(END)[27m[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K [K::[Kqq[K[?1l>[?1049l[23;0;0t[1m[7m%[27m[1m[0m                                                                                                            ]2;lhyo@lhyo-mj:~/Documents/personal-development-programming/triodevelopers-private-discord-bot-python]1;..rd-bot-python
+[0m[27m[24m[J[01;32m➜  [36mtriodevelopers-private-discord-bot-python[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                                                                            ]2;lhyo@lhyo-mj:~/Documents/personal-development-programming/triodevelopers-private-discord-bot-python]1;..rd-bot-python[0m[27m[24m[J[01;32m➜  [36mtriodevelopers-private-discord-bot-python[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mi[0m[39m[1m[31mi[0m[39m[90md gitea[39m[0m[39m [39m [39m [39m [39m [39m [39m [39m [8D[32mg[39m[32mg[39m[90mit branch[39m[9D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39me[39m [39m [39m [39m [39m  [90mbranch[39m[39mf[39m [39m [39m [39m [39m etch -all[?1l>[?2004l
+]2;git fetch -all]1;giterror: did you mean `--all` (with two dashes)?
+[1m[7m%[27m[1m[0m                                                                                                            ]2;lhyo@lhyo-mj:~/Documents/personal-development-programming/triodevelopers-private-discord-bot-python]1;..rd-bot-python[0m[27m[24m[J[01;31m➜  [36mtriodevelopers-private-discord-bot-python[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mgit[39m fetch -all-all[?1l>[?2004l
+]2;git fetch --all]1;gitFetching origin
+From github.com:srlhyo/triodevelopers-private-discord-bot-python
+ * [new branch]      expanded-help-menu -> origin/expanded-help-menu
+[1m[7m%[27m[1m[0m                                                                                                            ]2;lhyo@lhyo-mj:~/Documents/personal-development-programming/triodevelopers-private-discord-bot-python]1;..rd-bot-python[0m[27m[24m[J[01;32m➜  [36mtriodevelopers-private-discord-bot-python[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h[32mg[39m[32mg[39m[90mit fetch --all[39m[14D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39m[4mc[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[90mheckout expanded-help-menu[39m[26D[4mc[39m[4mh[24m[4mh[39m[4me[24m[4me[39m[4mc[24m[4mc[39m[4mk[24m[4mk[39m[4mo[24m[4mo[39m[4mu[24m[4mu[39m[4mt[24m[8D[24mc[24mh[24me[24mc[24mk[24mo[24mu[24mt[39m [39me[39mx[39mp[39ma[39mn[39md[39me[39md[39m-[39mh[39me[39ml[39mp[39m-[39mm[39me[39mn[39mu[?1l>[?2004l
+]2;git checkout expanded-help-menu]1;gitbranch 'expanded-help-menu' set up to track 'origin/expanded-help-menu'.
+Switched to a new branch 'expanded-help-menu'
+[1m[7m%[27m[1m[0m                                                                                                            ]2;lhyo@lhyo-mj:~/Documents/personal-development-programming/triodevelopers-private-discord-bot-python]1;..rd-bot-python[0m[27m[24m[J[01;32m➜  [36mtriodevelopers-private-discord-bot-python[00m [01;34mgit:([31mexpanded-help-menu[34m) [33m✗[00m [K[?1h=[?2004h[4mc[24m[4mc[24m[90md ../[39m[24m[1m[31mc[1m[31ml[0m[39m[39m [39m [39m [39m [90mear[39m[1m[31mc[1m[31ml[1m[31me[0m[39m[1m[31me[1m[31ma[0m[39m[0m[32mc[0m[32ml[0m[32me[0m[32ma[32mr[39m[1m[31mc[1m[31ml[1m[31me[1m[31ma[0m[39m[39m [90mr[39m[1m[31me[0m[39m[0m[39m [39m [90mar[39m[1m[31mc[1m[31ml[0m[39m[0m[39m [39m [39m [90mear[39m[0m[39m[4mc[24m[0m[39m [39m [39m [39m [4mc[24m[90md ../[39m[24m [39m [39m [39m [39m [39m [32mg[39m[32mg[39m[90mit checkout expanded-help-menu[39m[30D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39m[4mb[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [26D[90mranch[39m[24mb[39mr[39ma[39mn[39mc[39mh[?1l>[?2004l
+]2;git branch]1;git[?1049h[22;0;0t[?1h=* [32mexpanded-help-menu[m[m
+  main[m[m
+[7m(END)[27m[K[K [K::[Kww[K[7m(END)[27m[K[K [K::[K^J^J[K[7m(END)[27m[K[K[?1l>[?1049l[23;0;0t[1m[7m%[27m[1m[0m                                                                                                            ]2;lhyo@lhyo-mj:~/Documents/personal-development-programming/triodevelopers-private-discord-bot-python]1;..rd-bot-python[0m[27m[24m[J[01;32m➜  [36mtriodevelopers-private-discord-bot-python[00m [01;34mgit:([31mexpanded-help-menu[34m) [33m✗[00m [K[?1h=[?2004h[1m[31me[0m[39m[1m[31me[0m[39m[90mxit[39m[0m[32me[32mx[39m[1m[31me[1m[31mx[1m[31mi[0m[39m[0m[32me[0m[32mx[0m[32mi[32mt[39m[?1l>[?2004l
+]2;exit]1;exit
+Script done on 2022-05-29 23:50:39+01:00 [COMMAND_EXIT_CODE="0"]

@@ -38,8 +38,17 @@ use await member.send(content) instead of await ctx.send(member, content)
 erm... well you were trying to send regular message with ctx.send() but the correct way to send a message to a member was member.send(). I can't really go too much into details since it would probably go
 
 
-
 search for stuff on google in a specific way
 site:github.com python discord
+
+
+chmod +x *.sh
+
+https://www.youtube.com/watch?v=d7JaQnsmALA&t=25s
+https://www.youtube.com/watch?v=MtRT8-WGKaQ
+
+
+
+include /usr/share/nano-syntax-highlighting/*.nanorc
 
 
